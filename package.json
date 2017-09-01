@@ -1,0 +1,27 @@
+{
+  "name": "mocha-testing",
+  "version": "1.0.0",
+  "description": "Basic mocha testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyalcodes/mocha-testing.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "piyal Darshana <tenamax@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piyalcodes/mocha-testing/issues"
+  },
+  "homepage": "https://github.com/piyalcodes/mocha-testing#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.0"
+  }
+}
